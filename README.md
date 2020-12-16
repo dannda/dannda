@@ -1,7 +1,7 @@
 # Hi!
 ## I'm a programmer/developer
-she/her
-Mexico
+* she/her
+* Mexico
 
 ### Currently
 - Using machine learning to process data of crop plots collected from UAS-mounted cameras. We measure soil surface temperature dynamics and use it to predict early crop development. (Masters thesis)
