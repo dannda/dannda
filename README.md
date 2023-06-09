@@ -4,24 +4,11 @@
 * Mexico
 
 ### Currently
-- Using machine learning to process data of crop plots collected from UAS-mounted cameras. We measure soil surface temperature dynamics and use it to predict early crop development. (Masters thesis)
+- Research Software Engineer. Newcastle University, UK.
 
 ### Previous experience
-- Frontend development. Using Angular 5, AngularJS, HTML, CSS, Bootstrap. Google Maps API and consuming AWS.
-- Fullstack development. Developing .NET web services and managing Oracle databases.
-- Software development. Developing a library in C# to automate AutoCAD.
-
-<!--
-**dannda/dannda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Computer Vision Engineer. Preprocessed and trained and tested deep learning models for object recognition.
+- Master's in Image Analysis. Used machine learning and deep learning to process data of crop plots collected from UAS-mounted cameras. We measured soil surface temperature dynamics and used it to predict early crop development.
+- Frontend Developer. Using Angular 5, AngularJS, HTML, CSS, Bootstrap. Google Maps API and consuming AWS.
+- Fullstack Developer. Developing .NET web services and managing Oracle databases.
+- Software Developer. Developing a library in C# to automate AutoCAD.
